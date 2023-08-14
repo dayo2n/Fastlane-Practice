@@ -4,9 +4,8 @@
 
 app_identifier "pos.zena.Fastlane"
 
-price_tier(0)
-
 submission_information({
+    price_tier: 0,
     export_compliance_encryption_updated: false,
     export_compliance_uses_encryption: false,
     content_rights_contains_third_party_content: false,
